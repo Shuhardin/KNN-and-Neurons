@@ -1,0 +1,10 @@
+# Core
+numpy==2.5.4
+pandas==3.1.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+numba==0.68.1
+
+# Jupyter kernel
+ipykernel==7.4.0
+jupyterlab>=4.0
